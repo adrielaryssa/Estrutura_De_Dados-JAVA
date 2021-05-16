@@ -1,1 +1,8 @@
+-Preencha uma matriz de 3x3 com números digitados do teclado, depois some esses números
+na Matriz apresente o resultado, apresente também a matriz inteira.
 
+-Na mesma Matriz implemente um código que verifique o maior número dessa Matriz e
+depois apresente.
+
+-Implemente um algoritmo que preencha uma matriz de 4x4 e depois procure um número
+específico e depois apresente esse número, como também a matriz.
